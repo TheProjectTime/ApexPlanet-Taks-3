@@ -46,7 +46,6 @@ The dataset contains 1,000 sales records and 12 columns, including:
 | Total Quantity Sold |        5,435 | Measures total quantity sold              |
 | Unique Customers    |          947 | Measures distinct customers               |
 
-_Note: These values are based on the initial dataset analysis. The final dashboard values may differ if data cleaning or filters change the results._
 
 ## 🔍 Key Business Insights
 
