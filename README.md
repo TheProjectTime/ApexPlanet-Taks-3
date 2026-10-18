@@ -109,7 +109,7 @@ ApexPlanet-Task-3/
 ├── data/
 │   └── ApexPlanet_DataAnalytics_Dataset.xlsx
 ├── scripts/
-│   └── deep_dive_analysis.py
+│   └── ApexPlanet_Task_3_Deep_Dive_Analysis.ipynb
 ├── reports/
 │   ├── Deep_Dive_Analysis_Report.md
 │   ├── task3_monthly_sales.csv
@@ -138,4 +138,3 @@ This project demonstrates how data analysis and business intelligence tools can 
 
 **Project:** Sales Performance and Customer Insights  
 **Program:** ApexPlanet Data Analytics Internship — Task 3
-"# ApexPlanet-Task-3" 
