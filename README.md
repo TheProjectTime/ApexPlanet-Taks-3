@@ -67,7 +67,8 @@ Monthly revenue varies throughout the analysis period. January 2026 may represen
 
 ## 📊 Interactive Power BI Dashboard
 
-![Sales Performance Dashboard](dashboard/Dashboard_Screenshot.png)
+<img width="6150" height="3525" alt="Sales_Performance_Dashboard" src="https://github.com/user-attachments/assets/db1eeeed-223b-42b7-8877-a567a8dd0ac2" />
+
 
 The dashboard includes:
 
